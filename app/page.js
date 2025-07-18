@@ -47,7 +47,7 @@ const Home = () => {
             ))}
           </motion.h1>
 
-          {/* Subscript for "by Vaibhav Bhosale" */}
+          {/* Subscript for "by Aryan Thakur" */}
           <motion.p
             initial={{ opacity: 0, y: 10 }}
             animate={{ opacity: 1, y: 0 }}
