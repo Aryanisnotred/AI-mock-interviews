@@ -32,4 +32,4 @@ This project is an AI-powered mock interview platform designed to help users pra
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vaibhav-bhosale1/ai-mock-interview
+   git clone https://github.com/Aryanisnotred/ai-mock-interview
