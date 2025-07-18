@@ -54,7 +54,7 @@ const Home = () => {
             transition={{ delay: 1.5, duration: 1 }}
             className="text-sm text-gray-400 mt-2"
           >
-            by Vaibhav Bhosale
+            by Aryan Thakur
           </motion.p>
         </div>
       ) : (

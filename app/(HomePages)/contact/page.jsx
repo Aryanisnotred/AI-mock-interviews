@@ -71,7 +71,7 @@ const ContactForm = () => {
                   id="name"
                   name="name"
                   className="block w-full p-2.5 text-black rounded-lg"
-                  placeholder="Vaibhav Bhosale"
+                  placeholder="Aryan Thakur"
                   required
                 />
               </div>

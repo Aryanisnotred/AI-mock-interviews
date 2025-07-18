@@ -17,25 +17,25 @@ const Footer = () => {
           {/* Social Media */}
           <div className="flex space-x-6">
             <a
-              href="https://leetcode.com/u/vaibhav_bhosale_/"
+              href="https://leetcode.com/u/aryan_thakur_/"
               className="text-gray-400 hover:text-yellow-400 transition-transform transform hover:scale-125"
             >
               <i className="fab fa-facebook-f text-2xl"></i> Leetcode
             </a>
             <a
-              href="https://github.com/vaibhav-bhosale1"
+              href="https://github.com/aryan-thakur1"
               className="text-gray-400 hover:text-yellow-400 transition-transform transform hover:scale-125"
             >
               <i className="fab fa-twitter text-2xl"></i>Github
             </a>
             <a
-              href="https://www.linkedin.com/in/vaibhav-bhosale-0a2b13259/"
+              href="https://www.linkedin.com/in/aryan-thakur-0a2b13259/"
               className="text-gray-400 hover:text-yellow-400 transition-transform transform hover:scale-125"
             >
               <i className="fab fa-linkedin text-2xl"></i>Linkedin
             </a>
             <a
-              href="https://www.instagram.com/_vaibhav_7x_"
+              href="https://www.instagram.com/_aryan_7x_"
               className="text-gray-400 hover:text-yellow-400 transition-transform transform hover:scale-125"
             >
               <i className="fab fa-instagram text-2xl"></i>Instagram
